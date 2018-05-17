@@ -1,0 +1,1 @@
+{"name": "alecsammon/php-raml-parser", "require": {"raml-org/raml-php-parser": "0.*|1.*|2.*|3.*"}}
